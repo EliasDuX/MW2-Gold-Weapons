@@ -1,17 +1,17 @@
 # MW2-Gold-Weapons
 Weapon Progress for each Member of NameX
 
-##Justin
+## Justin
 M4
 Lachmann 556
 STB 556
 TAQ 56
 
-##Elias
+## Elias
 
 
-##Biba
+## Biba
 
 
-##Sascha
+## Sascha
 
