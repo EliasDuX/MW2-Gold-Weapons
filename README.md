@@ -2,11 +2,12 @@
 Weapon Progress for each Member of NameX
 
 ## Justin
-M4
-Lachmann 556
-STB 556
-TAQ 56
-
+<ol>
+  <li>M4</li>
+  <li>Lachmann 556</li>
+  <li>STB 556</li>
+  <li>TAQ 56</li>
+</ol>
 ## Elias
 
 
